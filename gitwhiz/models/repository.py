@@ -28,11 +28,22 @@ class Repository:
         return result.stdout
 
     def get_all_branches(self):
-        pass
+        result = subprocess.run(
+            ["git", "branch", "-a"],
+            capture_output=True,
+            text=True,
+            check=True
+        )
 
-    def un_command(self, command):
-        pass
+        return result.stdout
 
 
     def is_git_repo(self):
-        pass
+        result = subprocess.run(
+            ["git", "rev-parse", "--is-inside-work-tree"],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+
+        return result.stdout
