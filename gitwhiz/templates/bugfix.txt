@@ -1,16 +1,16 @@
-# Fix: [Brief description of the bug being fixed]
+Title: {{Title}}
 
-## Description
-Explain what the bug was and how it manifested.
+Description:
+{{Description}}
 
 ## Root Cause
-Describe why this bug occurred.
+{{RootCause}}
 
 ## Solution
-Explain how the fix resolves the issue.
+{{Solution}}
 
 ## Testing
-Describe how you verified the fix works.
+{{Testing}}
 
 ## Related Issues
-Fixes #[issue number]
+Fixes #{{IssueNumber}}

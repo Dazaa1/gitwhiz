@@ -1,12 +1,13 @@
-Docs: [Brief description of documentation changes]
+Title: {{Title}}
+
+Description:
+{{Description}}
 
 ## Changes
-- Documentation change 1
-- Documentation change 2
-- Documentation change 3
+{{Changes}}
 
 ## Affected Areas
-List which parts of the documentation were updated (e.g., API docs, README, guides).
+{{AffectedAreas}}
 
 ## Related Issues
-Related to #[issue number]
+Related to #{{IssueNumber}}

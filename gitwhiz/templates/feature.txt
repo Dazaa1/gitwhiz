@@ -1,15 +1,13 @@
-Feature: [Brief description of the new feature]
+Title: {{Title}}
 
-## Description
-Provide a detailed explanation of what this feature does and why it was added.
+Description:
+{{Description}}
 
 ## Changes
-- Change 1
-- Change 2
-- Change 3
+{{Changes}}
 
 ## Testing
-Describe how this feature was tested.
+{{Testing}}
 
 ## Related Issues
-Closes #[issue number]
+Closes #{{IssueNumber}}
