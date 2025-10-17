@@ -1,0 +1,15 @@
+Feature: [Brief description of the new feature]
+
+## Description
+Provide a detailed explanation of what this feature does and why it was added.
+
+## Changes
+- Change 1
+- Change 2
+- Change 3
+
+## Testing
+Describe how this feature was tested.
+
+## Related Issues
+Closes #[issue number]

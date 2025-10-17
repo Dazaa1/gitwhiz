@@ -1,0 +1,16 @@
+# Fix: [Brief description of the bug being fixed]
+
+## Description
+Explain what the bug was and how it manifested.
+
+## Root Cause
+Describe why this bug occurred.
+
+## Solution
+Explain how the fix resolves the issue.
+
+## Testing
+Describe how you verified the fix works.
+
+## Related Issues
+Fixes #[issue number]

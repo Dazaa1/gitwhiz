@@ -1,0 +1,12 @@
+Docs: [Brief description of documentation changes]
+
+## Changes
+- Documentation change 1
+- Documentation change 2
+- Documentation change 3
+
+## Affected Areas
+List which parts of the documentation were updated (e.g., API docs, README, guides).
+
+## Related Issues
+Related to #[issue number]
